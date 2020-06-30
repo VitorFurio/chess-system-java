@@ -1,7 +1,5 @@
 package chess;
 
-import java.awt.Point;
-
 import boardgame.Position;
 
 public class ChessPosition {
